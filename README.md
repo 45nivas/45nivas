@@ -1,11 +1,9 @@
-👋 Hey, I'm Lakshmi Nivas
+**👋 Hey, I'm Lakshmi Nivas**
 
-🧑‍💻 About Me
-
-🎓 Final Year B.Tech in Computer Science (AI & ML) @ Woxsen University
-🤖 Aspiring AI Engineer | 🏋️ Gym Rat | 🧬 Tech Meets Discipline
-📍 Based in Kakinada, India
----
+**🧑‍💻 About Me**
+- 🎓 Final Year B.Tech in Computer Science (AI & ML) @ Woxsen University  
+- 🤖 Aspiring AI Engineer | 🏋️ Gym Rat | 🧬 Where Tech Meets Discipline  
+- 📍 Based in Kakinada, India
 
 ### 🛠️ What I Do
 
@@ -42,4 +40,5 @@
 - 🧠 [GitHub](https://github.com/45nivas)
 
 **“Push. Pull. Legs → Code. Commit. Deploy.”**
+
 
