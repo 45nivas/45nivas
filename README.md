@@ -1,8 +1,10 @@
 👋 Hey, I'm Lakshmi Nivas
-🎓 Final Year B.Tech CSE (AI & ML) @ Woxsen University
-🤖 AI Engineer • 🏋️Gym Rat
-📍 Kakinada, India
 
+🧑‍💻 About Me
+
+🎓 Final Year B.Tech in Computer Science (AI & ML) @ Woxsen University
+🤖 Aspiring AI Engineer | 🏋️ Gym Rat | 🧬 Tech Meets Discipline
+📍 Based in Kakinada, India
 ---
 
 ### 🛠️ What I Do
@@ -40,3 +42,4 @@
 - 🧠 [GitHub](https://github.com/45nivas)
 
 **“Push. Pull. Legs → Code. Commit. Deploy.”**
+
