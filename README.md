@@ -35,10 +35,11 @@
 ### 📫 Let's Connect
 
 - 📧 [Email](mailto:mattanivas@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/lakshminivas-ai/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/lakshmi-nivas-matta-675813253/)
 - 🧠 [GitHub](https://github.com/45nivas)
 
 **“Push. Pull. Legs → Code. Commit. Deploy.”**
+
 
 
 
