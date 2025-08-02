@@ -11,7 +11,6 @@
 - LangChain, LLMs (Ollama), ChromaDB, OpenCV
 - Flask, Django, NLP, RAG, Prompt Engineering
 - ⚙️ I love turning academic AI into production-ready tools
-- 🎯 Mindset: Discipline from the gym. Imagination from anime.
 
 ---
 
@@ -40,5 +39,6 @@
 - 🧠 [GitHub](https://github.com/45nivas)
 
 **“Push. Pull. Legs → Code. Commit. Deploy.”**
+
 
 
