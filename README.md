@@ -19,7 +19,7 @@
 | 🔗 [Agentic RAG Chatbot](https://github.com/45nivas/Agentic-RAG-Chatbot-for-Multi-Format-Document-QA-using-Model-Context-Protocol-MCP-) | Multi-agent chatbot for PDF, DOCX, CSV, etc. with voice Intergration + MCP |
 | 🏋️ [Stay Hard Fitness](https://github.com/45nivas/Stay_hard_fitness) | Voice-based AI fitness coach with real-time pose tracking |
 | 📅 [Calendar Booking Bot](https://github.com/45nivas/calendar-booking-bot) | AI-powered scheduling assistant with smart calendar integration |
-| 🛰️ [Context-Aware-Research-Brief-Generator](https://github.com/45nivas/Context-Aware-Research-Brief-Generator-Using-LangGraph-and-LangChain)|AI-Powered Research Automation|
+| 🛰️ [Context-Aware-Research-Brief-Generator](https://github.com/45nivas/Context-Aware-Research-Brief-Generator-Using-LangGraph-and-LangChain)|LLM-Powered Research Automation|
 
 ---
 
@@ -37,6 +37,7 @@
 - 🧠 [GitHub](https://github.com/45nivas)
 
 **“Push. Pull. Legs → Code. Commit. Deploy.”**
+
 
 
 
