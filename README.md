@@ -7,10 +7,8 @@
 
 ### 🛠️ What I Do
 
-- 🧠 Build real-world AI projects using:
-- LangChain, LLMs (Ollama), ChromaDB, OpenCV
-- Flask, Django, NLP, RAG, Prompt Engineering
-- ⚙️ I love turning academic AI into production-ready tools
+- Focused on building cutting-edge AI solutions in NLP, RAG, and computer vision.
+- Passionate about turning research ideas into scalable, production-ready applications.
 
 ---
 
@@ -39,6 +37,7 @@
 - 🧠 [GitHub](https://github.com/45nivas)
 
 **“Push. Pull. Legs → Code. Commit. Deploy.”**
+
 
 
 
