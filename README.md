@@ -26,7 +26,7 @@
 ### 🏆 Achievements
 
 - 🥈 1st Runner-Up – UPES Hackathon (₹75K)
-- 🏅 Top 5 Finalist – UDGAM Hackathon
+- 🏅 Top 5 Finalist – UGM x GKS Hackathon
 
 ---
 
@@ -37,6 +37,7 @@
 - 🧠 [GitHub](https://github.com/45nivas)
 
 **“Push. Pull. Legs → Code. Commit. Deploy.”**
+
 
 
 
