@@ -12,7 +12,7 @@
 
 ---
 
-### 🧩 Key Projects That Define Me
+### 🧩 Some Key projects i Worked On
 
 | Project | Description |
 |--------|-------------|
@@ -37,6 +37,7 @@
 - 🧠 [GitHub](https://github.com/45nivas)
 
 **“Push. Pull. Legs → Code. Commit. Deploy.”**
+
 
 
 
